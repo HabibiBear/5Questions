@@ -8,14 +8,7 @@ import speech_recognition as sr
 
 # Firebase configuration
 firebaseConfig = {
-    'apiKey': "AIzaSyD7XRSlqfMbKMyB9OoJWRfdosnWFBam0WQ",
-    'authDomain': "questions-ec8d8.firebaseapp.com",
-    'databaseURL': 'https://<your-database-url>.firebaseio.com',  # Set this correctly
-    'projectId': "questions-ec8d8",
-    'storageBucket': "questions-ec8d8.appspot.com",
-    'messagingSenderId': "1032145350724",
-    'appId': "1:1032145350724:web:8b60b20d21db2b3ecccc11",
-    'measurementId': "G-D18GD7CPLX"
+Cant show this part of the code sorry
 }
 
 # Initialize Firebase and client
